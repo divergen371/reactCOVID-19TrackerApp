@@ -1,9 +1,10 @@
 import "./App.css";
+import TopPage from "./pages/TopPage";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Goog morning!!</h1>
+    <div>
+      <TopPage />
     </div>
   );
 }
