@@ -19,7 +19,7 @@ module.exports = {
   rules: {
     "react/react-in-jsx-scope": ["off"],
     "no-unused-vars": ["warn"],
-    "react/prop-types": ["warn"],
+    "react/prop-types": ["off"],
     "prettier/prettier": ["warn"],
     "react/jsx-key": ["warn"],
   },
